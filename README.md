@@ -51,7 +51,7 @@
 
 </div>
 
-This bot's only feature is, when you join the channel specified in [`config.js`](/config.js), it will immediately create a channel specifically for you, and automatically move you there.
+This bot's only feature is, when you join the channel specified in [`config.js`](/config.js), it will immediately create a channel for you, and automatically move you there.
 
 <br>
 
