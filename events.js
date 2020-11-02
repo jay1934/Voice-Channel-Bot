@@ -24,7 +24,6 @@ module.exports = (client) => {
               type: 'voice',
               parent: categoryID,
               permissionOverwrites: [
-                { id: guild.id, deny: ['VIEW_CHANNEL', 'CONNECT'] },
                 { id: member.id, allow: Permissions.ALL },
               ],
             }
